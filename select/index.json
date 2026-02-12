@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Virtual Strike",
+  "base_artist": "にじさんじ",
+  "createdAt": "2026-02-12T05:43:53.127789Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Virtual Strike (Japanese Ver.) feat. Melissa Kinrenka",
+      "artist": "NIJISANJI",
+      "has_synced": true,
+      "path": "select/01_Virtual_Strike_(Japanese_Ver.)_feat._Melissa_Kinrenka_NIJISANJI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Virtual Strike (Indonesian Ver.) feat. ZEA Cornelia",
+      "artist": "NIJISANJI ID",
+      "has_synced": true,
+      "path": "select/02_Virtual_Strike_(Indonesian_Ver.)_feat._ZEA_Cornelia_NIJISANJI_ID.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Virtual Strike (Korean Ver.) feat. Nun Bora",
+      "artist": "NIJISANJI KR",
+      "has_synced": true,
+      "path": "select/03_Virtual_Strike_(Korean_Ver.)_feat._Nun_Bora_NIJISANJI_KR.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Virtual Strike (Instrumental)",
+      "artist": "NIJISANJI",
+      "has_synced": true,
+      "path": "select/04_Virtual_Strike_(Instrumental)_NIJISANJI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Virtual Strike",
+      "artist": "NIJISANJI",
+      "has_synced": true,
+      "path": "select/05_Virtual_Strike_NIJISANJI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Virtual Strike (English Ver.) feat. Finana Ryugu",
+      "artist": "NIJISANJI EN",
+      "has_synced": true,
+      "path": "select/06_Virtual_Strike_(English_Ver.)_feat._Finana_Ryugu_NIJISANJI_EN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Virtual Strike",
+      "artist": "NIJISANJI ID",
+      "has_synced": true,
+      "path": "select/07_Virtual_Strike_NIJISANJI_ID.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Virtual Strike (English Ver.)",
+      "artist": "NIJISANJI JP",
+      "has_synced": true,
+      "path": "select/08_Virtual_Strike_(English_Ver.)_NIJISANJI_JP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Virtual Strike",
+      "artist": "にじさんじ",
+      "has_synced": false,
+      "path": "select/pl_01_Virtual_Strike_にじさんじ.txt"
+    }
+  ]
+}
